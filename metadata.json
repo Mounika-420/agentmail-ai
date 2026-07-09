@@ -1,0 +1,6 @@
+{
+  "name": "AgentMail AI",
+  "description": "Autonomous AI Email Marketing Agent providing enterprise-level campaign planning, email generation, subject optimization, customer segmentation, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,291 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "email": "marketing@agentmail.ai",
+      "password": "password123",
+      "name": "Sarah Jenkins",
+      "role": "Marketing Manager"
+    },
+    {
+      "id": "u2",
+      "email": "admin@agentmail.ai",
+      "password": "password123",
+      "name": "Devon Carter",
+      "role": "Admin"
+    },
+    {
+      "id": "u3",
+      "email": "viewer@agentmail.ai",
+      "password": "password123",
+      "name": "Alex Mercer",
+      "role": "Viewer"
+    },
+    {
+      "id": "u_1783622978528",
+      "name": "kishoth kumar",
+      "email": "kishothkumar18@gmail.com",
+      "password": "123456",
+      "role": "Admin"
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "c1",
+      "name": "Q3 SaaS Product Launch",
+      "product": "AgentMail Pro",
+      "audience": "B2B Marketing Directors",
+      "goal": "Drive high-intent demo bookings",
+      "budget": 5000,
+      "plan": "Autonomous Marketing Initiative to launch AgentMail Pro directly to B2B Marketing Directors. Focus is on delivering educational insights first to establish brand authority, followed by high-conversion product demonstration hooks to satisfy the goal of 'Drive high-intent demo bookings'.",
+      "strategy": "Email 1 (Day 1): The Challenge - Detail common operational struggles. Email 2 (Day 4): The Breakthrough - Introduce AgentMail Pro with success stats. Email 3 (Day 8): The Risk-Free Pilot - Offer direct booking with premium support.",
+      "objective": "Achieve >28% open rate, >5.4% click-through rate, and generate at least 45 verified leads from B2B Marketing Directors within the budget of $5000.",
+      "persona": "Target Persona: \"Modern Manager Max\". Age 30-45, values time-saving automations and cost efficiencies. Pain points include bloated toolchains, communication overhead, and sluggish execution loops.",
+      "cta": "Primary Call-To-Action: \"Claim Your Free Strategic Session Now\"",
+      "timeline": "Phase 1: Awareness (Days 1-3), Phase 2: Trust-Building (Days 4-7), Phase 3: Conversions (Days 8-12). Total cadence: 3 touchpoints.",
+      "status": "Sent",
+      "createdAt": "2026-06-15T10:00:00Z"
+    },
+    {
+      "id": "c2",
+      "name": "Summer Re-engagement",
+      "product": "Enterprise Automation Suite",
+      "audience": "Inactive Enterprise Customers",
+      "goal": "Reactivate accounts with specialized upgrades",
+      "budget": 3500,
+      "plan": "Target cold contacts with updates about our new AI engine and security features.",
+      "status": "Draft",
+      "createdAt": "2026-07-01T14:30:00Z"
+    }
+  ],
+  "templates": [
+    {
+      "id": "t_1783623034647",
+      "title": "Promotional Email - Professional",
+      "type": "Promotional",
+      "tone": "Professional",
+      "subject": "Exclusive Insight: Transform your workflow with AgentMail AI – Autonomous Email Marketing Platform 🚀",
+      "body": "Dear Partner,\n\nWe noticed you are continuously striving to optimize operations and drive growth. That's why we created AgentMail AI – Autonomous Email Marketing Platform—the leading choice for Small Business Owners & Digital Marketing Teams.\n\nWith AgentMail AI – Autonomous Email Marketing Platform, you will eliminate tedious overhead, unlock 10x workflow speeds, and leverage smart decision loops built on top of robust architecture.\n\n\"We've seen immediate 40% productivity boosts.\" - Enterprise Feedback\n\nAre you ready to see it in action? Click below to activate your premium pass:\n\n[Secure Your Launch Trial Here]\n\nBest regards,\nThe AgentMail AI – Autonomous Email Marketing Platform Growth Team",
+      "createdAt": "2026-07-09T18:50:34.647Z"
+    },
+    {
+      "id": "t_1783621275149",
+      "title": "Promotional Email - Professional",
+      "type": "Promotional",
+      "tone": "Professional",
+      "subject": "Exclusive Insight: Transform your workflow with AgentMail AI – Autonomous Email Marketing Platform 🚀",
+      "body": "Dear Partner,\n\nWe noticed you are continuously striving to optimize operations and drive growth. That's why we created AgentMail AI – Autonomous Email Marketing Platform—the leading choice for Small Business Owners & Digital Marketing Teams.\n\nWith AgentMail AI – Autonomous Email Marketing Platform, you will eliminate tedious overhead, unlock 10x workflow speeds, and leverage smart decision loops built on top of robust architecture.\n\n\"We've seen immediate 40% productivity boosts.\" - Enterprise Feedback\n\nAre you ready to see it in action? Click below to activate your premium pass:\n\n[Secure Your Launch Trial Here]\n\nBest regards,\nThe AgentMail AI – Autonomous Email Marketing Platform Growth Team",
+      "createdAt": "2026-07-09T18:21:15.149Z"
+    },
+    {
+      "id": "t1",
+      "title": "AgentMail Introduction",
+      "type": "Welcome",
+      "tone": "Professional",
+      "subject": "Welcome to the future of automated marketing",
+      "body": "Hello,\n\nWe're thrilled to introduce you to AgentMail AI. Our mission is to automate your marketing operations so you can focus on building relationships.\n\nBest regards,\nSarah Jenkins",
+      "spamScore": 1.2,
+      "readability": "Grade 8",
+      "grammarIssues": [],
+      "spamWordsFound": [],
+      "professionalScore": 94,
+      "createdAt": "2026-06-15T10:30:00Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "c_0_1783623111726",
+      "name": "Richard Hendricks",
+      "email": "richard@piper.net",
+      "revenue": 42000,
+      "openRate": 95,
+      "clickRate": 78,
+      "segment": "VIP"
+    },
+    {
+      "id": "c_1_1783623111727",
+      "name": "Dinesh Chugtai",
+      "email": "dinesh@piper.net",
+      "revenue": 8500,
+      "openRate": 72,
+      "clickRate": 25,
+      "segment": "Premium"
+    },
+    {
+      "id": "c_2_1783623111727",
+      "name": "Bertram Gilfoyle",
+      "email": "gilfoyle@piper.net",
+      "revenue": 12000,
+      "openRate": 85,
+      "clickRate": 62,
+      "segment": "Premium"
+    },
+    {
+      "id": "c_3_1783623111727",
+      "name": "Jared Dunn",
+      "email": "jared@piper.net",
+      "revenue": 25000,
+      "openRate": 98,
+      "clickRate": 90,
+      "segment": "VIP"
+    },
+    {
+      "id": "c_4_1783623111727",
+      "name": "Nelson Bighetti",
+      "email": "bighead@piper.net",
+      "revenue": 0,
+      "openRate": 10,
+      "clickRate": 0,
+      "segment": "Inactive"
+    },
+    {
+      "id": "c_5_1783623111727",
+      "name": "Gavin Belson",
+      "email": "gavin@hooli.xyz",
+      "revenue": 145000,
+      "openRate": 90,
+      "clickRate": 52,
+      "segment": "VIP"
+    },
+    {
+      "id": "c_6_1783623111727",
+      "name": "Monica Hall",
+      "email": "monica@raviga.com",
+      "revenue": 32000,
+      "openRate": 88,
+      "clickRate": 45,
+      "segment": "VIP"
+    },
+    {
+      "id": "c_7_1783623111727",
+      "name": "Laurie Bream",
+      "email": "laurie@raviga.com",
+      "revenue": 89000,
+      "openRate": 80,
+      "clickRate": 30,
+      "segment": "VIP"
+    },
+    {
+      "id": "c_8_1783623111727",
+      "name": "Erlich Bachman",
+      "email": "erlich@bachmanity.com",
+      "revenue": 150,
+      "openRate": 45,
+      "clickRate": 12,
+      "segment": "Regular"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n_1783623131302",
+      "title": "Campaign Sent Out",
+      "message": "Autonomous email campaign dispatched to 9 subscribers with 100% API delivery validation.",
+      "type": "success",
+      "createdAt": "2026-07-09T18:52:11.302Z",
+      "read": false
+    },
+    {
+      "id": "n_1783622996603",
+      "title": "Strategy Generated",
+      "message": "Campaign strategy for 'Q3 SaaS Product Launch' has been created.",
+      "type": "success",
+      "createdAt": "2026-07-09T18:49:56.603Z",
+      "read": false
+    },
+    {
+      "id": "n_1783621338888",
+      "title": "Campaign Sent Out",
+      "message": "Autonomous email campaign dispatched to 9 subscribers with 100% API delivery validation.",
+      "type": "success",
+      "createdAt": "2026-07-09T18:22:18.888Z",
+      "read": false
+    },
+    {
+      "id": "n_1783621229224",
+      "title": "Strategy Generated",
+      "message": "Campaign strategy for 'Q3 SaaS Product Launch' has been created.",
+      "type": "success",
+      "createdAt": "2026-07-09T18:20:29.224Z",
+      "read": false
+    },
+    {
+      "id": "n_1783619897690",
+      "title": "Strategy Generated",
+      "message": "Campaign strategy for 'Q3 SaaS Product Launch' has been created.",
+      "type": "success",
+      "createdAt": "2026-07-09T17:58:17.690Z",
+      "read": false
+    },
+    {
+      "id": "n1",
+      "title": "Campaign Ready",
+      "message": "AI has finished planning your Summer Re-engagement campaign.",
+      "type": "success",
+      "createdAt": "2026-07-06T18:00:00Z",
+      "read": false
+    },
+    {
+      "id": "n2",
+      "title": "System Notification",
+      "message": "Successfully synchronized database with high-contrast UI metrics.",
+      "type": "info",
+      "createdAt": "2026-07-07T01:30:00Z",
+      "read": true
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "l_1783623131302",
+      "userId": "u1",
+      "userName": "Sarah Jenkins",
+      "action": "Campaign Dispatched",
+      "details": "Dispatched campaign emails to 9 targets in segment 'All' using simulated SendGrid API wrapper.",
+      "timestamp": "2026-07-09T18:52:11.302Z"
+    },
+    {
+      "id": "l_1783622978582",
+      "userId": "u_1783622978528",
+      "userName": "kishoth kumar",
+      "action": "User Registered",
+      "details": "Registered account as Admin",
+      "timestamp": "2026-07-09T18:49:38.582Z"
+    },
+    {
+      "id": "l_1783621338888",
+      "userId": "u1",
+      "userName": "Sarah Jenkins",
+      "action": "Campaign Dispatched",
+      "details": "Dispatched campaign emails to 9 targets in segment 'All' using simulated SendGrid API wrapper.",
+      "timestamp": "2026-07-09T18:22:18.888Z"
+    },
+    {
+      "id": "l1",
+      "userId": "u1",
+      "userName": "Sarah Jenkins",
+      "action": "Campaign Created",
+      "details": "Created Q3 SaaS Product Launch campaign",
+      "timestamp": "2026-06-15T10:01:00Z"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "r1",
+      "type": "CTA",
+      "title": "Stronger CTA in Launch Email",
+      "description": "Replace 'Learn More' with 'Schedule a Demo' to boost conversion rates by an estimated 14%.",
+      "impact": "High"
+    },
+    {
+      "id": "r2",
+      "type": "Subject",
+      "title": "Subject Line Urgency",
+      "description": "Include limited-time indicators for 'Summer Re-engagement' to raise the open rate by 8%.",
+      "impact": "Medium"
+    }
+  ],
+  "settings": {
+    "mailtrapToken": "",
+    "sendgridApiKey": "",
+    "senderEmail": "marketing@agentmail.ai"
+  }
+}
